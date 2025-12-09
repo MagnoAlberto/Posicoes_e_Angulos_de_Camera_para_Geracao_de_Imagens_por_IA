@@ -1,4 +1,4 @@
-# Posições e Ângulos de Câmera para Geração de Imagens por IA
+# Posições e Ângulos de Câmera para Geração de Imagens por IA -- WIP
 
 #### Introdução - Posições e Ângulos de Câmera para Geração de Imagens por IA
 
