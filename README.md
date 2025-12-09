@@ -38,17 +38,15 @@ Este projeto nasceu da necessidade de criar uma **referência visual clara** que
 ### Definições técnicas
 
 #### SHOT SIZES (Tamanhos de Enquadramento)
-🔲 Low Angle Shot
-🔲 Dutch Angle / Canted Angle
-🔲 High Angle Shot
-🔲 Extreme Close-Up (ECU)
-🔲 Medium Shot (MS)
-🔲 Pan (Panoramic Movement)
-🔲 Tilt (Vertical Movement)
-
-🔲 Dolly / Tracking Shot
-
-🔲 Zoom (Optical Movement)
+🔲 **Low Angle Shot**
+🔲 **Dutch Angle / Canted Angle**
+🔲 **High Angle Shot**
+🔲 **Extreme Close-Up (ECU)**
+🔲 **Medium Shot (MS)**
+🔲 **Pan (Panoramic Movement)**
+🔲 **Tilt (Vertical Movement)**
+🔲 **Dolly / Tracking Shot**
+🔲 **Zoom (Optical Movement)**
 
 🔲 Wide Shot / Long Shot (WS/LS)
 
